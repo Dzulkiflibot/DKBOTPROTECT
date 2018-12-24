@@ -1,0 +1,125 @@
+
+[<module 'time' (built-in)>] expected string or bytes-like object
+[<module 'time' (built-in)>] 'changePicture'
+[<module 'time' (built-in)>] [Errno 0] Error
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] name 'cmd' is not defined
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'c048bbf0043d8140696b5a61bfb3fe677'
+[<module 'time' (built-in)>] 'c048bbf0043d8140696b5a61bfb3fe677'
+[<module 'time' (built-in)>] 'ccbef20efbe723af585991e67d630c283'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] 'c3ad8f3c50a067f79adb34faf63ccb73c'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mention.', parameterMap=None)
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ccbef20efbe723af585991e67d630c283'
+[<module 'time' (built-in)>] 'c3ad8f3c50a067f79adb34faf63ccb73c'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ccbef20efbe723af585991e67d630c283'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'c048bbf0043d8140696b5a61bfb3fe677'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'cf4f743fab1fb0cdb4c4350eefca05645'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'cf4f743fab1fb0cdb4c4350eefca05645'
+[<module 'time' (built-in)>] 'cf4f743fab1fb0cdb4c4350eefca05645'
+[<module 'time' (built-in)>] 'cf4f743fab1fb0cdb4c4350eefca05645'
+[<module 'time' (built-in)>] 'ccbef20efbe723af585991e67d630c283'
+[<module 'time' (built-in)>] 'ccbef20efbe723af585991e67d630c283'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'cf4f743fab1fb0cdb4c4350eefca05645'
+[<module 'time' (built-in)>] 'ccbef20efbe723af585991e67d630c283'
+[<module 'time' (built-in)>] 'ccbef20efbe723af585991e67d630c283'
+[<module 'time' (built-in)>] 'c048bbf0043d8140696b5a61bfb3fe677'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'cf4f743fab1fb0cdb4c4350eefca05645'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'Setmain' is not defined
+[<module 'time' (built-in)>] name 'Setmain' is not defined
+[<module 'time' (built-in)>] name 'Setmain' is not defined
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'ttypes' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'ttypes' is not defined
+[<module 'time' (built-in)>] name 'ttypes' is not defined
+[<module 'time' (built-in)>] name 'ttypes' is not defined
+[<module 'time' (built-in)>] 'c7fe5c659f916b789672c38cb4d786cd6'
+[<module 'time' (built-in)>] 'c7fe5c659f916b789672c38cb4d786cd6'
+[<module 'time' (built-in)>] 'c7fe5c659f916b789672c38cb4d786cd6'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] 'ua49645de5bf35bec5fe7428089801737'
+[<module 'time' (built-in)>] 'ca4132562948d48dda813fb2edafe7f10'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'ttypes' is not defined
+[<module 'time' (built-in)>] name 'ttypes' is not defined
+[<module 'time' (built-in)>] name 'ki' is not defined
+[<module 'time' (built-in)>] 'c7fe5c659f916b789672c38cb4d786cd6'
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
+[<module 'time' (built-in)>] name 'Setmain' is not defined
+[<module 'time' (built-in)>] name 'Setmain' is not defined
+[<module 'time' (built-in)>] name 'Setmain' is not defined
+[<module 'time' (built-in)>] name 'ki5MID' is not defined
+[<module 'time' (built-in)>] name 'ki5MID' is not defined
+[<module 'time' (built-in)>] name 'ki5MID' is not defined
+[<module 'time' (built-in)>] argument of type 'bool' is not iterable
